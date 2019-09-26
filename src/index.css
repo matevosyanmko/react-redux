@@ -1,0 +1,12 @@
+html body{
+    background: #e2e1e0;
+    margin: 0;
+    padding: 2% 5%;
+    margin: auto;
+}
+
+.ant-article{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: #fff;
+}
+
